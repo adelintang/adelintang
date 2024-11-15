@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Perkenalkan nama saya **Ade Lintang Permono**. Saya adalah seorang mahasiswa Informatika dan sekarang tinggal di kota Surakarta, saya menekuni bidang Web Development semenjak kuliah. Saya mempunyai pemahaman yang kuat di **Javascript**. Dan sekarang saya sedang memperdalam **Typescript**.
+Hello Everyone. Let me introduce my self, my name is **Ade Lintang Permono**. I'am a Informatics college student. I'am very interesting about web dev technology, and I have deepfull knowladge about **javascript** and **typescript**. If you interesting, contact me.
 
 ## Statistic
 
@@ -14,13 +14,15 @@ Perkenalkan nama saya **Ade Lintang Permono**. Saya adalah seorang mahasiswa Inf
 
 ## Tech Stack
 <div style="border-left: 1.5px solid #595957; padding: 0 1rem ;width: 50%">
-<img width="26" src="https://img.icons8.com/color/48/000000/javascript--v1.png" alt="JavaScript" title="JavaScript"/>
-<img width="26" src="https://img.icons8.com/color/48/000000/typescript.png" alt="TypeScript" title="TypeScript"/>
-<img width="26" src="https://img.icons8.com/fluency/48/000000/node-js.png" alt="Node.js" title="Node.js"/>
-<img width="26" src="https://img.icons8.com/color/48/000000/tailwindcss.png" alt="Tailwindcss" title="Tailwindcss"/>
-<img width="26" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-react-a-javascript-library-for-building-user-interfaces-logo-color-tal-revivo.png" alt="ReactJS" title="ReactJS"/>
-<img width="26" src="https://img.icons8.com/color/48/000000/redux.png" alt="Redux" title="Redux"/>
-<img width="26" src="https://img.icons8.com/color/48/000000/express-js.png" alt="ExpressJS" title="ExpressJS"/>
-<img width="26" src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB" title="MongoDB"/>
-<img width="26" src="https://img.icons8.com/color/48/000000/postgreesql.png" alt="PostgreSQL" title="PostgreSQL"/>
+<img width="32" src="https://img.icons8.com/color/48/000000/javascript--v1.png" alt="JavaScript" title="JavaScript"/>
+<img width="32" src="https://img.icons8.com/color/48/000000/typescript.png" alt="TypeScript" title="TypeScript"/>
+<img width="32" src="https://img.icons8.com/fluency/48/000000/node-js.png" alt="Node.js" title="Node.js"/>
+<img width="32" src="https://img.icons8.com/color/48/000000/tailwindcss.png" alt="Tailwindcss" title="Tailwindcss"/>
+<img width="32" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-react-a-javascript-library-for-building-user-interfaces-logo-color-tal-revivo.png" alt="ReactJS" title="ReactJS"/>
+<img width="32" src="https://img.icons8.com/color/48/000000/redux.png" alt="Redux" title="Redux"/>
+<img width="32" src="https://img.icons8.com/color/48/000000/express-js.png" alt="ExpressJS" title="ExpressJS"/>
+<img width="32" src="https://img.icons8.com/color/48/000000/prisma-orm.png" alt="Prisma" title="Prisma"/>
+<img width="32" src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB" title="MongoDB"/>
+<img width="32" src="https://img.icons8.com/color/48/000000/mysql.png" alt="MySQL" title="MySQL"/>
+<img width="32" src="https://img.icons8.com/color/48/000000/postgreesql.png" alt="PostgreSQL" title="PostgreSQL"/>
 </div>
