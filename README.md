@@ -1,8 +1,10 @@
-## Hi there 👋
+## Hi, I'm Ade Lintang 👋
+
+## - Backend Enginer
 
 Hello Everyone. Let me introduce my self, my name is **Ade Lintang Permono**. I'am a Informatics college student. I'am very interesting about web dev technology, and I have deepfull knowladge about **javascript** and **typescript**. If you interesting, contact me.
 
-## Statistic
+### Statistic
 
 <div align="center" style="padding: 0 20px;">
 <img alt="telegram" src="https://www.codewars.com/users/pemulaCode/badges/micro" style="margin-bottom: 8px;">
@@ -13,6 +15,7 @@ Hello Everyone. Let me introduce my self, my name is **Ade Lintang Permono**. I'
 </div>
 
 ## Tech Stack
+
 <div style="border-left: 1.5px solid #595957; padding: 0 1rem ;width: 50%">
 <img width="32" src="https://img.icons8.com/color/48/000000/javascript--v1.png" alt="JavaScript" title="JavaScript"/>
 <img width="32" src="https://img.icons8.com/color/48/000000/typescript.png" alt="TypeScript" title="TypeScript"/>
@@ -21,6 +24,7 @@ Hello Everyone. Let me introduce my self, my name is **Ade Lintang Permono**. I'
 <img width="32" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-react-a-javascript-library-for-building-user-interfaces-logo-color-tal-revivo.png" alt="ReactJS" title="ReactJS"/>
 <img width="32" src="https://img.icons8.com/color/48/000000/redux.png" alt="Redux" title="Redux"/>
 <img width="32" src="https://img.icons8.com/color/48/000000/express-js.png" alt="ExpressJS" title="ExpressJS"/>
+<img width="32" src="https://img.icons8.com/color/48/000000/nestjs.png" alt="NestJS" title="NestJS"/>
 <img width="32" src="https://img.icons8.com/color/48/000000/prisma-orm.png" alt="Prisma" title="Prisma"/>
 <img width="32" src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB" title="MongoDB"/>
 <img width="32" src="https://img.icons8.com/color/48/000000/mysql.png" alt="MySQL" title="MySQL"/>
