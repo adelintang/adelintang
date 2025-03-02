@@ -1,6 +1,6 @@
 ## Hi, I'm Ade Lintang 👋
 
-## - Backend Enginer
+## - Backend Engineer
 
 Hello Everyone. Let me introduce my self, my name is **Ade Lintang Permono**. I'am a Informatics college student. I'am very interesting about web dev technology, and I have deepfull knowladge about **javascript** and **typescript**. If you interesting, contact me.
 
